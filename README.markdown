@@ -1,3 +1,11 @@
+## What is Octopress zh_TW
+
+Inspired by the Simplified Chinese version, [octothemes/octopress-chinese](https://github.com/octothemes/octopress-chinese). This fork is to provide Traditional Chinese version of Octopress. Everything is the same, only the text all translated into Traditional Chinese.
+
+## 什麼是繁體中文版 Octopress
+
+啟發自簡體中文化的版本，[octothemes/octopress-chinese](https://github.com/octothemes/octopress-chinese)，這個 fork 提供了繁體中文化的 Octopress，除了文字的部分已經翻譯成繁體中文，其他都保持不變。
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
